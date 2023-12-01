@@ -1,6 +1,6 @@
 {
-  "short_name": "Aave",
-  "name": "Aave",
+  "short_name": "YieldLend",
+  "name": "YieldLend",
   "description": "Non-custodial liquidity protocol",
   "iconPath": "aave.svg",
   "icons": [
